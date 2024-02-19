@@ -1,0 +1,6 @@
+import io.netty.handler.codec.http.HttpResponseDecoder;
+public class FunctionUse5041 {
+public void funcUse() {
+HttpResponseDecoder httpresponsedecoder = new HttpResponseDecoder();
+}
+}
